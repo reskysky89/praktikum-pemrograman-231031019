@@ -21,4 +21,4 @@
 * Latihan-a4: Latihan penggunaan If else dengan use case yang lebih kompleks`231031019-reski septiawan-latihan4.py`
 * Tugas-1-a10: Latihan If else dengan membuat program pengecekan ganjil genap `231031019_Reski septiawan_tugas1.py`
 * Tugas-2-a10: Latihan membuat fungsi selisih waktu dan konversi waktu `231031019_Reski septiawan_tugas2.py`
-* Tugas-a3(1) : du fort `tugas-a3(1).py
+* Tugas-a3(1) : du fort `tugas-a3(1).py`
